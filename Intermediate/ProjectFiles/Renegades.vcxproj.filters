@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Renegades.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A81A8E0F-0177-4BA7-BE99-0F85DC5DA9EB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Renegades.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RenegadesEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{14B71528-ED2A-49F7-BF5D-22432DEC92CF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Renegades">
+      <UniqueIdentifier>{07DD30F6-5DEE-4498-AFCB-18AD71E12858}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Renegades\Renegades.Build.cs">
+      <Filter>Source\Renegades</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Renegades\Renegades.cpp">
+      <Filter>Source\Renegades</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Renegades\Renegades.h">
+      <Filter>Source\Renegades</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Renegades\RenegadesGameModeBase.cpp">
+      <Filter>Source\Renegades</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Renegades\RenegadesGameModeBase.h">
+      <Filter>Source\Renegades</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Renegades",
+			"Path": "C:\\Users\\ir\\Documents\\Developpement\\Undisclosed Studios\\Game\\Renegades\\Source\\Renegades.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RenegadesEditor",
+			"Path": "C:\\Users\\ir\\Documents\\Developpement\\Undisclosed Studios\\Game\\Renegades\\Source\\RenegadesEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Renegades.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ir\Documents\Developpement\Undisclosed Studios\Game\Renegades\Intermediate\Build\Win64\RenegadesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ir\Documents\Developpement\Undisclosed Studios\Game\Renegades\Intermediate\Build\Win64\UE4Editor\Development\Renegades\Renegades.cpp.obj"
+"C:\Users\ir\Documents\Developpement\Undisclosed Studios\Game\Renegades\Intermediate\Build\Win64\UE4Editor\Development\Renegades\RenegadesGameModeBase.cpp.obj"
+"C:\Users\ir\Documents\Developpement\Undisclosed Studios\Game\Renegades\Intermediate\Build\Win64\UE4Editor\Development\Renegades\Renegades.init.gen.cpp.obj"
+"C:\Users\ir\Documents\Developpement\Undisclosed Studios\Game\Renegades\Intermediate\Build\Win64\UE4Editor\Development\Renegades\RenegadesGameModeBase.gen.cpp.obj"
+"C:\Users\ir\Documents\Developpement\Undisclosed Studios\Game\Renegades\Intermediate\Build\Win64\UE4Editor\Development\Renegades\Default.rc2.res"
+/OUT:"C:\Users\ir\Documents\Developpement\Undisclosed Studios\Game\Renegades\Intermediate\Build\Win64\UE4Editor\Development\Renegades\UE4Editor-Renegades.lib"
+/INCLUDE:IMPLEMENT_MODULE_Renegades

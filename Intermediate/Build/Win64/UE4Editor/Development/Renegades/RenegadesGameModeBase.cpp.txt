@@ -1,0 +1,7 @@
+C:\Users\ir\Documents\Developpement\Undisclosed Studios\Game\Renegades\Intermediate\Build\Win64\UE4Editor\Development\Renegades\Definitions.Renegades.h
+C:\Users\ir\Documents\Developpement\Undisclosed Studios\Game\Renegades\Source\Renegades\RenegadesGameModeBase.h
+E:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\ir\Documents\Developpement\Undisclosed Studios\Game\Renegades\Intermediate\Build\Win64\UE4Editor\Inc\Renegades\RenegadesGameModeBase.generated.h

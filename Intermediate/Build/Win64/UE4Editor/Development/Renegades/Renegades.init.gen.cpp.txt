@@ -1,0 +1,3 @@
+C:\Users\ir\Documents\Developpement\Undisclosed Studios\Game\Renegades\Intermediate\Build\Win64\UE4Editor\Development\Renegades\Definitions.Renegades.h
+E:\EpicGames\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\EpicGames\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

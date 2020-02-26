@@ -1,0 +1,2 @@
+C:\Users\ir\Documents\Developpement\Undisclosed Studios\Game\Renegades\Intermediate\Build\Win64\UE4Editor\Development\Renegades\Definitions.Renegades.h
+C:\Users\ir\Documents\Developpement\Undisclosed Studios\Game\Renegades\Source\Renegades\Renegades.h
