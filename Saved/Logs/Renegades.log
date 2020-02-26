@@ -962,3 +962,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.26-03.43.50:098][376]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
 [2020.02.26-03.43.50:098][376]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
 [2020.02.26-03.43.50:098][376]SourceControl: Error: Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2020.02.26-04.16.24:649][509]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-04.16.24:649][509]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-04.16.24:649][509]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.02.26-04.16.24:668][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.26-04.16.24:668][509]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Menu
+[2020.02.26-04.16.24:670][509]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-04.16.24:672][509]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2020.02.26-04.16.24:681][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.26-04.16.24:718][509]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.26-04.16.24:721][509]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2020.02.26-04.16.24:725][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.26-04.16.24:765][509]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.26-04.16.24:843][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.26-04.16.24:885][509]LogUObjectHash: Compacting FUObjectHashTables data took  12.03ms
+[2020.02.26-04.16.24:924][510]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.02.26-04.16.26:992][720]SourceControl: Source control is disabled
+[2020.02.26-04.16.26:993][720]LogSlate: Window 'Source Control Login' being destroyed
+[2020.02.26-04.16.30:445][ 78]Running E:/EpicGames/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/ir/Documents/Developpement/Undisclosed Studios/Game/Renegades/Renegades.uproject" -game -rocket -progress
+[2020.02.26-04.16.31:180][ 78]Discovering modules, targets and source code for project...
+[2020.02.26-04.16.35:118][ 78]Binding IntelliSense data...
+[2020.02.26-04.16.39:170][ 78]Binding IntelliSense data... 100%
